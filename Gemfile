@@ -18,6 +18,7 @@ gem 'cancancan'
 gem 'draper'
 gem 'pundit'
 gem 'active_admin_importable'
+gem "active_material"
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
